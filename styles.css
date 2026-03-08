@@ -1,0 +1,12 @@
+h1 {
+  color: rgb(201, 102, 16);
+  font-size: 60px;
+}
+p {
+  font-size: 20px;
+  color: rgb(9, 45, 103);
+}
+nav a {
+  color: rgb(210, 44, 44);
+  font-size: 20px;
+}
