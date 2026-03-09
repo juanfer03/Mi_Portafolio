@@ -10,3 +10,9 @@ nav a {
   color: rgb(210, 44, 44);
   font-size: 20px;
 }
+.section {
+  padding: 20px;
+  margin: 20px 0;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
